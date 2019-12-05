@@ -10,3 +10,12 @@ The following packages were updated:
   com.unity.analytics from version 2.0.16 to 3.2.2
   com.unity.package-manager-ui from version 1.9.11 to 2.0.8
   com.unity.textmeshpro from version 1.2.4 to 1.4.1
+
+=== Thu Nov 28 11:37:54 2019
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.xr.openvr.standalone@1.0.5
+  com.unity.xr.windowsmr.metro@1.0.15
